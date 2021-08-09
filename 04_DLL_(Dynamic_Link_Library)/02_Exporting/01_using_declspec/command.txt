@@ -1,0 +1,3 @@
+cl.exe /c /EHsc MyMath.cpp
+
+link.exe MyMath.obj /DLL /SUBSYSTEM:WINDOWS
