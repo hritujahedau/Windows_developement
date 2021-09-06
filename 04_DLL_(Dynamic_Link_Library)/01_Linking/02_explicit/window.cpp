@@ -1,8 +1,6 @@
 // Header files
 #include <windows.h>
 
-//#include "MyMath.h"
-
 // Global function declaration
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 

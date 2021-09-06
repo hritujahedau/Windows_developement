@@ -1,0 +1,4 @@
+cl.exe /c /EHsc ClassFactoryServerWithDefAndRegFile.cpp
+
+link.exe ClassFactoryServerWithDefAndRegFile.obj /DLL /DEF:ClassFactoryServerWithDefAndRegFile.def user32.lib gdi32.lib kernel32.lib ole32.lib oleaut32.lib /SUBSYSTEM:WINDOWS
+

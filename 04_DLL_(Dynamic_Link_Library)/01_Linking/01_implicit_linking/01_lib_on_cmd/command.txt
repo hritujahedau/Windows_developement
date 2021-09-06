@@ -1,3 +1,6 @@
 cl.exe /c /EHsc window.cpp
 
 link.exe window.obj user32.lib gdi32.lib MyMath.lib /SUBSYSTEM:WINDOWS
+
+
+DUMPBIN.EXE /ALL window.exe

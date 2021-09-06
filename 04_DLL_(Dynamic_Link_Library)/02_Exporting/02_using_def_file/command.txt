@@ -1,0 +1,4 @@
+cl.exe /c /EHsc MyMath.cpp
+
+link.exe MyMath.obj /DLL /DEF:MyMath.def user32.lib gdi32.lib /SUBSYSTEM:WINDOWS
+
