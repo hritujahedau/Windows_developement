@@ -1,0 +1,4 @@
+LIBRARY ClassFactoryServerWithDefAndRegFile
+EXPORTS
+	DllGetClassObject	PRIVATE
+	DllCanUnloadNow		PRIVATE
