@@ -96,6 +96,9 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT iMsg, WPARAM wParam, LPARAM lParam)
 			gpISum->Release();
 			gpISum = NULL;
 
+			gpISumAgain->Release();
+			gpISumAgain = NULL;
+
 			break;
 		case WM_DESTROY:
 			PostQuitMessage(0);
