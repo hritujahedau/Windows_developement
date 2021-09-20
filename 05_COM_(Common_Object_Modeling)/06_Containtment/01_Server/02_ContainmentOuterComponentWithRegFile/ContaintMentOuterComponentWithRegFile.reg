@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{24FCED8F-DD04-4CA3-82C9-782A60D27225}]
+@="MyDll"
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{24FCED8F-DD04-4CA3-82C9-782A60D27225}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\ContaintMentOuterComponentWithRegFile.dll"

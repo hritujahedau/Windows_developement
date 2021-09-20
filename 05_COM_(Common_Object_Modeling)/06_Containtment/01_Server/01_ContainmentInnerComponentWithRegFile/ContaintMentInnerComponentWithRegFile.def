@@ -1,0 +1,4 @@
+LIBRARY ContaintMentInnerComponentWithRegFile
+EXPORTS
+	DllGetClassObject		PRIVATE
+	DllCanUnloadNow			PRIVATE

@@ -1,7 +1,0 @@
-Windows Registry Editor Version 5.00
-[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{B57E6B25-BB1F-4A75-A23D-20736CCC565A}]
-@="Simple Moniker Class"
-[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{B57E6B25-BB1F-4A75-A23D-20736CCC565A}\InprocServer32]
-@="C:\\Windows\\SysWOW64\\MonikerDllServer_With_Two_Interface.dll"
-[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{B57E6B25-BB1F-4A75-A23D-20736CCC565A}\InprocServer32\ThreadingModel]
-@="Apartment"
