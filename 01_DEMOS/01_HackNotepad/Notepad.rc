@@ -1,0 +1,3 @@
+#include "Notepad.h"
+
+MYICON		ICON		".//badge.ico"
