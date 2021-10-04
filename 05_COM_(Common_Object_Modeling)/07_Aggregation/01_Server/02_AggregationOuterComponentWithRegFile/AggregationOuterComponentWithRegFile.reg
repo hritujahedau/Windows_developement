@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{9913841C-0566-416A-8D48-C4390505DD7D}]
+@="MyDll"
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{9913841C-0566-416A-8D48-C4390505DD7D}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\AggregationOuterComponentWithRegFile.dll"
